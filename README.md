@@ -1,4 +1,4 @@
-# AlgoBasics_python_java
-To write basic codes for executing basic known algorithms in python or java(blueJ)
-Cpp, C#, C  can also be used
-Any form of explanation is accepted :)
+# Game_s
+To write basic games for executing in python or c
+- [x] Maze solver in python (bfs /dfs)
+- [x] Tic-Tac-Toe in C
